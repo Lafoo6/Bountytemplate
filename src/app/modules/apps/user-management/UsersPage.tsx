@@ -10,7 +10,7 @@ const usersBreadcrumbs: Array<PageLink> = [
     isActive: false,
   },
   {
-    title: '',
+    title: 'Users',
     path: '',
     isSeparator: true,
     isActive: false,
